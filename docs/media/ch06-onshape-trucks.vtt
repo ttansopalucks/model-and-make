@@ -1,0 +1,97 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:10.538
+This is the Lesson 2.1 deck. Now we add a truck: baseplate, hanger and axle, bushing, and kingpin.
+
+00:00:11.088 --> 00:00:18.182
+Right-click Part 1 → Rename → Deck.
+
+00:00:18.732 --> 00:00:23.643
+Bottom view. Start a sketch on the bottom face of the deck.
+
+00:00:24.193 --> 00:00:30.056
+Show Sketch 2 (the bolt holes) with its eye icon.
+
+00:00:30.606 --> 00:00:39.395
+Offset tool: pick the 4 lines of the bolt-hole rectangle, arrow outward, 0.25 in.
+
+00:00:39.945 --> 00:00:45.401
+The bigger rectangle is the baseplate outline.
+
+00:00:45.951 --> 00:00:51.095
+Extrude: New, 0.25 in, away from the deck.
+
+00:00:51.645 --> 00:00:55.255
+A new grey plate under the deck.
+
+00:00:55.805 --> 00:01:00.879
+Sketch on the Front plane. Use tool: bring in the plate's bottom edge.
+
+00:01:01.429 --> 00:01:05.423
+Corner rectangle under the plate, from the end of that edge.
+
+00:01:05.973 --> 00:01:10.582
+A second, smaller rectangle below it, lined up on the right.
+
+00:01:11.132 --> 00:01:18.655
+Dimensions: 0.5 and 0.375 tall, 1.5 wide for the lower block.
+
+00:01:19.205 --> 00:01:27.622
+Extrude: Add to the plate, 0.75 in, Symmetric.
+
+00:01:28.172 --> 00:01:31.853
+Rename it Truck Baseplate.
+
+00:01:32.403 --> 00:01:38.475
+Hanger: sketch on the Front plane. Use the notch edge as a reference.
+
+00:01:39.025 --> 00:01:52.655
+Two circles, 0.75 below the notch: Ø0.25 (axle) and Ø0.75 (hanger). Black = fully defined.
+
+00:01:53.205 --> 00:01:59.579
+Small circle: New, 8.5 in, Symmetric. That's the axle.
+
+00:02:00.129 --> 00:02:06.073
+Ring: Add to the axle part, 6 in, Symmetric. That's the hanger.
+
+00:02:06.623 --> 00:02:10.373
+Rename it Truck Hanger. Hide the deck to see better.
+
+00:02:10.923 --> 00:02:20.583
+Bushing: sketch on the baseplate's big bottom face. Dotted lines find the center.
+
+00:02:21.133 --> 00:02:27.135
+Two circles on the center: Ø1 and Ø0.375.
+
+00:02:27.685 --> 00:02:33.223
+Extrude both regions: New, 0.25 in, away from the baseplate.
+
+00:02:33.773 --> 00:02:37.430
+Rename it Bushing. It sits right under the baseplate.
+
+00:02:37.980 --> 00:02:49.033
+Kingpin: hide the bushing, show Sketch 6, extrude the small circle: Add to Truck Baseplate, 0.75 in.
+
+00:02:49.583 --> 00:02:54.029
+The kingpin runs through the bushing into the hanger.
+
+00:02:54.579 --> 00:03:01.870
+Fillet (Shift+F): baseplate edges, 0.125 in.
+
+00:03:02.420 --> 00:03:05.543
+Rounded edges look better and are safer to hold.
+
+00:03:06.093 --> 00:03:10.668
+Right-click the hanger → Edit appearance → light grey.
+
+00:03:11.218 --> 00:03:20.227
+Assign material: Aluminum - 356 for the baseplate and the hanger.
+
+00:03:20.777 --> 00:03:26.512
+Bushing: any color, material Polyurethane.
+
+00:03:27.062 --> 00:03:37.221
+Mass properties: select the 3 truck parts. Ours ≈ 0.55 lb.
+
+00:03:37.771 --> 00:03:44.586
+Board from below with one truck. You'll copy it in Lesson 2.4.

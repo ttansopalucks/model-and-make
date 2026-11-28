@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:06.672
+Click + at the bottom left → Create Part Studio.
+
+00:00:07.222 --> 00:00:11.762
+Right-click the tab → Rename → Wheel and Bearing.
+
+00:00:12.312 --> 00:00:16.352
+Sketch on the Top plane. Press N.
+
+00:00:16.902 --> 00:00:25.911
+Line from the origin to the right. Press Q: construction. It's the axle line.
+
+00:00:26.461 --> 00:00:33.822
+Two center-point rectangles above the line: wide (tire) on top, narrow (hub) below.
+
+00:00:34.372 --> 00:00:41.814
+Top rectangle: 36 mm wide. Type mm after the number.
+
+00:00:42.364 --> 00:00:52.070
+Bottom rectangle: 0.5 in wide. Top line + centerline, drag below the centerline → a diameter.
+
+00:00:52.620 --> 00:00:56.219
+Ø54 mm: the outside of the wheel.
+
+00:00:56.769 --> 00:01:11.188
+Middle line: Ø22 mm. Hole: Ø0.25 in. If it flips below the line, dimension from the middle line instead.
+
+00:01:11.738 --> 00:01:20.678
+Revolve: both rectangles, axis = construction line, Full.
+
+00:01:21.228 --> 00:01:25.919
+Rename the part Wheel. P hides the planes.
+
+00:01:26.469 --> 00:01:30.149
+Fillet the outer edges.
+
+00:01:30.699 --> 00:01:33.323
+Now it looks like a real wheel.
+
+00:01:33.873 --> 00:01:39.469
+Side view. The flat ring around the hole is where the bearing sits.
+
+00:01:40.019 --> 00:01:43.920
+Extrude that face: New, 7 mm.
+
+00:01:44.470 --> 00:01:46.037
+Rename it Bearing.
+
+00:01:46.587 --> 00:01:54.552
+Sketch on the bearing face: two circles on the center.
+
+00:01:55.102 --> 00:02:01.673
+1 mm in from each edge: Ø20 mm and Ø8.35 mm.
+
+00:02:02.223 --> 00:02:08.515
+Ring: Remove, 0.5 mm. That's the bearing groove.
+
+00:02:09.065 --> 00:02:15.254
+Materials: Bearing = Stainless Steel 316. Wheel = Polyurethane.
+
+00:02:15.804 --> 00:02:18.648
+Edit appearance: pick a wheel color.
+
+00:02:19.198 --> 00:02:25.932
+Mass properties: ≈ 0.23 lb for one wheel and bearing.
+
+00:02:26.482 --> 00:02:31.126
+One wheel and bearing. Lesson 2.4 puts four on the board.

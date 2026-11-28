@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:06.811
+Open the Assembly tab. Parts come together here and can move.
+
+00:00:07.361 --> 00:00:11.460
+Click Insert. Both Part Studios are listed.
+
+00:00:12.010 --> 00:00:18.848
+Click Skateboard Deck and Trucks, then the green check. Don't click the window.
+
+00:00:19.398 --> 00:00:25.470
+Right-click the deck → Fix.
+
+00:00:26.020 --> 00:00:34.762
+Select the 3 truck parts → Fix. (The lesson text uses fastened mates.)
+
+00:00:35.312 --> 00:00:39.341
+Second truck: in the Part Studio, open Mirror.
+
+00:00:39.891 --> 00:00:47.275
+Pick the 3 truck parts, Right plane, New (not Add).
+
+00:00:47.825 --> 00:00:54.884
+In the assembly, insert the 3 new parts, then Fix them.
+
+00:00:55.434 --> 00:00:59.962
+Insert Wheel and Bearing. It lands in the middle.
+
+00:01:00.512 --> 00:01:05.550
+Select wheel + bearing → Group.
+
+00:01:06.100 --> 00:01:08.643
+Hide the deck to see the axles.
+
+00:01:09.193 --> 00:01:19.038
+Revolute mate: hover the hanger end until the connector appears, click.
+
+00:01:19.588 --> 00:01:23.211
+Click the bearing face. The wheel jumps onto the axle.
+
+00:01:23.761 --> 00:01:26.466
+Insert Wheel and Bearing 3 more times.
+
+00:01:27.016 --> 00:01:33.099
+Widen the panel. Wheel 2 goes with Bearing 2, and so on.
+
+00:01:33.649 --> 00:01:38.444
+Group each pair: 2, 3, 4.
+
+00:01:38.994 --> 00:01:42.106
+Revolute the next wheel to the other truck.
+
+00:01:42.656 --> 00:01:50.585
+Shift+7, then the arrow keys to turn the view.
+
+00:01:51.135 --> 00:01:55.663
+Wheel over the hanger? It's backwards.
+
+00:01:56.213 --> 00:02:00.985
+Click Flip primary axis.
+
+00:02:01.535 --> 00:02:05.215
+Same for the last wheel.
+
+00:02:05.765 --> 00:02:12.754
+Show the deck. Two trucks, four wheels. Drag a wheel: it spins.
+
+00:02:13.304 --> 00:02:20.503
+Your complete skateboard. Challenge: add bolts and nuts from Standard content.
